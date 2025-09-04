@@ -1,2 +1,2 @@
-# financial_chatbot
-An AI Generated Financial chatbot  built with streamlit.
+
+This is a Streamlit-based Financial Chatbot powered by IBM Granite LLM(via Hugging Face Transformers) that enables users to ask financial questions and recieve AI-generated response in real-time , with GPU acceleration support for faster performance. It provides a simple, user-friendly interface where users can interact with the chatbot also export their conversations as PDF files using ReportLab. Built with Python,Streamlit,Pytorch, and Hugging Face,the project is easy to set up with a Hugging Face authentication token and can be extended with features like multi-turn conversation,real-time financial data integration,multi-language support,and personalized dashboards,making it a versatile tool for intelligent financial guidance. 
